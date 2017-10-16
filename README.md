@@ -4,6 +4,7 @@ Diacritic RegExp builder.
 
 Build a diacritic insensitive regular expression ideal to match names when making searches.
 
+This module exists thanks to [this project](https://github.com/pocesar/js-diacritic-regex).
 
 ## Installation
 
