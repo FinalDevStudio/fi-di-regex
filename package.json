@@ -2,13 +2,13 @@
   "name": "fi-di-regex",
   "version": "1.0.0",
   "description": "String to a regex that is diacritic insensitive",
-  "main": "./index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FinalDevStudio/fi-di-regex"
+    "url": "git+https://github.com/FinalDevStudio/fi-di-regex.git"
   },
   "devDependencies": {
     "chai": "^4.1.2",
@@ -21,9 +21,10 @@
     "ascii",
     "collation"
   ],
-  "authors": [
-    "Final Development Studio <sorcery@finaldevstudio.com>",
-    "Paulo Cesar <https://github.com/pocesar>"
+  "author": "Final Development Studio <sorcery@finaldevstudio.com> (finaldevstudio.com)",
+  "contributors": [
+    "Santiago G. Marín <santiago@finaldevstudio.com> (https://github.com/stgogm)",
+    "Paulo Cesar (https://github.com/pocesar)"
   ],
   "license": "MIT",
   "bugs": {
@@ -33,5 +34,6 @@
   "directories": {
     "lib": "lib",
     "test": "test"
-  }
+  },
+  "dependencies": {},
 }
