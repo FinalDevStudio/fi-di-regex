@@ -1,6 +1,6 @@
 {
   "name": "fi-di-regex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String to a regex that is diacritic insensitive",
   "author": "Final Development Studio <sorcery@finaldevstudio.com> (finaldevstudio.com)",
   "homepage": "https://github.com/FinalDevStudio/fi-di-regex#readme",
