@@ -1,1 +1,4 @@
+.jsbeautifyrc
+.eslintrc.js
+.travis.yml
 test
