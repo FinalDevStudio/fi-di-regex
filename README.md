@@ -1,3 +1,7 @@
+---
+### No longer maintained.
+---
+
 # Fi Di Regex
 
 Diacritic RegExp builder.
